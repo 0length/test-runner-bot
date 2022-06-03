@@ -1,0 +1,6 @@
+capture.flv
+capture.mp4
+dist
+test/*
+!test/.gitkeep
+node_modules
